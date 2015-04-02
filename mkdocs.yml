@@ -1,0 +1,7 @@
+site_name: Documentation Demo
+repo_url: https://github.com/vdumitrescu/documentation-demo
+pages:
+- ['index.md', 'Introduction']
+- ['api/index.md', 'API Guide', 'Introduction']
+- ['api/section-a.md', 'API Guide', 'Section A']
+- ['api/section-b.md', 'API Guide', 'Section B']
